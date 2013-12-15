@@ -1,0 +1,17 @@
+B:2:Sahara:Adventure:8.99:0500:
+A:0500:Clive Cussler:1201 Some Street:Tuscon:AZ:12345:1112223333
+
+B:3:Devil's Gate:Adventure:15.98:0500:5
+A:0500:Clive Cussler:1201 Some Street:Tuscon:AZ:12345:1112223333
+
+B:5:The Shining:Horror:15.39:0213:5
+A:0213:Stephen King:1466 Cemetary Street:Petsville:IN:10021:5559638521
+
+B:4:Locked On:Thriller:15.99:0600:5
+A:0600:Tom Clancy:1405 Spy Lane :Baltimore:MD:80021:5551234567
+
+B:1:To Kill a Mockingbird:Bildungsroman:13.79:1010:5
+A:1010:Harper Lee:123 Any Place :Gotham:NY:81000:1111111111
+
+B:6:Unlimited Power:Motivational:13.73:0911:5
+A:0911:Anthony Robbins:9021 Good Place:Rio:Brazil:43432:3230903232

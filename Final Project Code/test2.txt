@@ -1,0 +1,35 @@
+B:2:Sahara:Adventure:8.99:0500:5
+A:0500:Clive Cussler:1201 Some Street:Tuscon:AZ:12345:1112223333
+
+B:3:Devil's Gate:Adventure:15.98:0500
+A:0500:Clive Cussler:1201 Some Street:Tuscon:AZ:12345:1112223333
+
+B:5:The Shining:Horror:15.39:0213
+A:0213:Stephen King:1466 Cemetary Street:Petsville:IN:10021:5559638521
+
+B:4:Locked On:Thriller:15.99:0600
+A:0600:Tom Clancy:1405 Spy Lane :Baltimore:MD:80021:5551234567
+
+B:1:To Kill a Mockingbird:Bildungsroman:13.79:1010:5
+A:1010:Harper Lee:123 Any Place :Gotham:NY:81000:1111111111
+
+B:6:Unlimited Power:Motivational:13.73:0911
+A:0911:Anthony Robbins:9021 Good Place:Rio:Brazil:43432:3230903232
+
+B:7:Fifty Shades of Grey:Adult Fiction:8.99:2110:4
+A:2110:E.L. James:432 Some Lane:Reno:NV:43232:9392228112
+
+B:8:Fifty Shades Freed:Adult Fiction:8.99:2110
+A:2110:E.L. James: 432 Some Lane:Reno:NV:43232:9392228112
+
+B:9:The Innocent:Thriller:7.98:3212:6
+A:3212:David Baldacci:9231 Somerset Drive:Lakeland:CA:98731:8971238745
+
+B:10:The Lucky One:Drama:10.98:9781
+A:9781:Nora Roberts:332 Lover's Lane:Mesa:AZ:67231:8910981214
+
+B:11:Linear Algebra for Dummies:Mathematics:15.98:3009:3
+A:3009:Mary Jane Sterling:23 Vector Drive:Denver:CO:54341:7891471592
+
+B:12:Data Structures With Java:Programming (Java):17.95:2398:2
+A:2398:John R. Hubbard:93 For Loop:Lansing:MI:87639:2349871201
